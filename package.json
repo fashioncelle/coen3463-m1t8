@@ -1,0 +1,15 @@
+{
+  "name": "module1team8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"start": "node app.js"
+  },
+  "author": "Jocelle Tanquion",
+  "license": "ISC"
+}
